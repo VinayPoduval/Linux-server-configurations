@@ -192,3 +192,12 @@ Click on `Manage` option in your lightsail instance. In the `Networking` tab cha
 - Change ownership of project directories `sudo chown -R www-data:www-data Catalog/`
 - Restart apache service `sudo service apache2 restart`
 - Open browser and open http://13.234.150.58
+
+## References
+- Digital Ocean [How to deploy Flask apps on Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-    application-on-an-ubuntu-vps)
+- Flask documentation [Virtual Environments](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/#working-with-virtual-environments)
+- Digital Ocean [Secure PostgreSQL on Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
+- Digital Ocean [Setup SSH keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2)
+- Official Ubuntu Documentation [UFW - Uncomplicated Firewalls](https://help.ubuntu.com/community/UFW)
+- Server Pilot [Create servers using Amazon Lightsail](https://serverpilot.io/docs/how-to-create-a-server-on-amazon-lightsail)
+- Github repo [Linux server config](https://github.com/ManishPoduval/LinuxServerConfigurations)
